@@ -1,25 +1,27 @@
-# ŠT—v
-Switch I Am Setsuna(‚¢‚¯‚É‚¦‚Æá‚ÌƒZƒcƒi)‚ÌƒZ[ƒuƒf[ƒ^•ÒWTool
+![DL Count](https://img.shields.io/github/downloads/turtle-insect/Setsuna/total.svg)
 
-# ƒ\ƒtƒg
+# æ¦‚è¦
+Switch I Am Setsuna(ã„ã‘ã«ãˆã¨é›ªã®ã‚»ãƒ„ãƒŠ)ã®ã‚»ãƒ¼ãƒ–ãƒ‡ãƒ¼ã‚¿ç·¨é›†Tool
+
+# ã‚½ãƒ•ãƒˆ
 http://www.jp.square-enix.com/setsuna/
 https://iamsetsuna.com/us/
 
-# Às‚É•K—v
-* Windows ƒ}ƒVƒ“
-* .NET Framework 4.7.1‚Ì“±“ü
-* ƒZ[ƒuƒf[ƒ^‚Ì‹z‚¢o‚µ
-* ƒZ[ƒuƒf[ƒ^‚Ì‘‚«–ß‚µ
+# å®Ÿè¡Œã«å¿…è¦
+* Windows ãƒã‚·ãƒ³
+* .NET Framework 4.7.1ã®å°å…¥
+* ã‚»ãƒ¼ãƒ–ãƒ‡ãƒ¼ã‚¿ã®å¸ã„å‡ºã—
+* ã‚»ãƒ¼ãƒ–ãƒ‡ãƒ¼ã‚¿ã®æ›¸ãæˆ»ã—
 
-# BuildŠÂ‹«
+# Buildç’°å¢ƒ
 * Windows 10(64bit)
 * Visual Studio 2017
 
-# •ÒW‚Ìè‡
-* saveData‚ğ‹z‚¢o‚·
-   * Œ‹‰ÊAˆÈ‰º‚ªæ“¾‰Â”\
-      * setsuna00.dat(setsuna01.datAsetsuna02.dat)
-* setsuna00.dat(setsuna01.datAsetsuna02.dat)‚ğ“Ç‚İ‚Ş
-* ”CˆÓ‚Ì•ÒW‚ğs‚¤
-* setsuna00.dat(setsuna01.datAsetsuna02.dat)‚ğ‘‚«o‚·
-* saveData‚ğ‘‚«–ß‚·
+# ç·¨é›†æ™‚ã®æ‰‹é †
+* saveDataã‚’å¸ã„å‡ºã™
+   * çµæœã€ä»¥ä¸‹ãŒå–å¾—å¯èƒ½
+      * setsuna00.dat(setsuna01.datã€setsuna02.dat)
+* setsuna00.dat(setsuna01.datã€setsuna02.dat)ã‚’èª­ã¿è¾¼ã‚€
+* ä»»æ„ã®ç·¨é›†ã‚’è¡Œã†
+* setsuna00.dat(setsuna01.datã€setsuna02.dat)ã‚’æ›¸ãå‡ºã™
+* saveDataã‚’æ›¸ãæˆ»ã™
